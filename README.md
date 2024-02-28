@@ -1,3 +1,3 @@
 # Tea-Tesnet-Gats
-This is the repository for the tesnet tea project. 
+This is the repository for the testnet tea project. 
 webteam-lc-template
